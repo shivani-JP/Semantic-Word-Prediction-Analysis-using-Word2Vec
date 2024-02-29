@@ -1,0 +1,24 @@
+1. Bias, Variance and prediction error
+2. Model Selection and Regularization
+3. For classification - methods to analyse the model - accuracy, precision, recall
+4. Single and multi layer network. Stochastic gradient descent
+
+
+Why use dot product(cosine similarity without normalization)
+https://stats.stackexchange.com/questions/572576/should-i-use-cosine-or-dot-similarity-inside-word2vecs-neural-network?rq=1
+why remove softmax?
+https://stats.stackexchange.com/questions/244616/how-does-negative-sampling-work-in-word2vec/245452#245452
+embedding layer
+https://medium.com/analytics-vidhya/understanding-embedding-layer-in-keras-bbe3ff1327ce
+undertsnading word2vec from basic without NCE
+https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72
+word2vec with negative skipgram
+https://towardsdatascience.com/what-does-word2vec-actually-learn-489f3f950388
+generate word embed
+http://projector.tensorflow.org
+
+References
+1. https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
+2. https://www.tensorflow.org/tutorials/text/word2vec
+3. https://blog.cambridgespark.com/tutorial-build-your-own-embedding-and-use-it-in-a-neural-network-e9cde4a81296
+4. https://github.com/nzw0301/keras-examples/blob/master/Skip-gram-with-NS.ipynb
